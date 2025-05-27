@@ -1,4 +1,4 @@
-# LLP-Solver - Dual-Method
+# LLP Solver - Dual-Method
 This C++ project is a Linear Programming Problem (LPP) solver that applies the Dual Simplex Method to find the optimal solution to minimization problems. It is tailored for problems where the number of constraints equals the number of variables, making it ideal for dual formulations.
 
 ## Features :
